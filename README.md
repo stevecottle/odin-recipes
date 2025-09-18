@@ -1,3 +1,3 @@
 # odin-recipes
 
-Simple html exercise of linking recipe page to an index page.
+Simple html exercise of linking recipe pages to an index page.
