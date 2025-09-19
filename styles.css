@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    line-height: 20px;
+    background-color: honeydew;
+    color: darkslateblue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 16px 0;
+}
+
+a, p, li {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li {
+    font-size: smaller;
+}
+
+.container {
+    width: 600px;
+    margin: 32px auto;
+}
+
+ul, ol {
+    margin: 0 0 32px 16px;
+}
+
+p {
+    margin: 0 0 32px 0;
+}
